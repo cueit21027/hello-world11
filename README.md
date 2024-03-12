@@ -1,2 +1,2 @@
-dx# -world11 qw
+dx# -world qw
 f 11234 vs
